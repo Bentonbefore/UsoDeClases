@@ -1,6 +1,6 @@
 # UsoDeClases
 
-~Juego de Pelea~
+*Juego de Pelea*
 
 
 	El ataque es un random entre "X" y "Y"
